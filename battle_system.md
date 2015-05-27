@@ -3,14 +3,10 @@
 
 Generally turn based.
 
-All turns are planned before executing the first turn.
-
-At the first turn it is possible to use instant abilities (Flash Heal, Instant Strike etc.).
-
-Combat actions are executed in their [priority order](#priorities).
-
-Combatants react towards attacks / magic with a predefined [Counteraction](#counteraction) strategy.
-
+All turns are planned before executing the first turn.  
+At the first turn it is possible to use instant abilities (Flash Heal, Instant Strike etc.).  
+Combat actions are executed in their [priority order](#priorities).  
+Combatants react towards attacks / magic with a predefined [Counteraction](#counteraction) strategy.  
 If the target of an ability is not available anymore (e.g. target dies/flees before the ability could be used) the turn of the caster expires.
 
 ## Abilities
@@ -45,7 +41,7 @@ Standard actions to be executed as reaction of being attacked, the player may ch
 
 Player death results in game over.
 
-Enemy death results in the removal of thatenemy from combat.
+Enemy death results in the removal of thatenemy from combat.  
 If there are no enemies left in combat the [Victory Screen](#victory-Screen) will be shown.
 
 ## Escape
@@ -60,5 +56,5 @@ If there are no enemies left in combat the [Victory Screen](#victory-Screen) wil
 
 ## Victory Screen
 
-Shows how much experience and money the player gains.
+Shows how much experience and money the player gains.  
 Also shows ability experience
