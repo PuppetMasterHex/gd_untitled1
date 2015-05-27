@@ -13,7 +13,7 @@ If the target of an ability is not available anymore (e.g. target dies/flees bef
 ## Priorities
 
 1. Priority 0: Always used before the first turn starts (instant abilities)
-2. Priority 1: Executed in order depending on the [Speed](attributes.md).
+2. Priority 1: Executed in order depending on the [Speed](attributes.md#Speed).
 3. Priority 2: Executed after all other combatants have acted in this turn.
 
 
@@ -37,5 +37,12 @@ If there are no enemies left in combat the [Victory Screen](#victory-Screen) wil
 
 ## Escape
 
+Success probe.
+
+1. When successful
+..* Player escape results in [Victory Screen](#victory-Screen)
+..* Enemy escape results in the removal of that enemy from combat.
+2. When not successful
+..* The turn of that combatant expires.
 
 ## Victory Screen
