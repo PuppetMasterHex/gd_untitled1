@@ -19,8 +19,8 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 * [Speed](attributes.md#speed) +2
 
 ### Unarmed
-* [SP](attributes.md#skill-points) +1
 * [Mind](attributes.md#mind) +1
+* [HP](attributes.md#hit-points) +2
 
 ## Medium Weapons
 ### Swords
@@ -29,7 +29,7 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 
 ### Maces
 * [MP](attributes.md#magic-points) +1
-* [Body](attributes.md#body) +2
+* [Vitality](attributes.md#vitality) +2
 
 ### Whips
 * [Mind](attributes.md#mind) +1
@@ -41,12 +41,12 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 * [Strength](attributes.md#strength) +2
 
 ### Axes
-* [Body](attributes.md#body) +2
 * [Strength](attributes.md#strength) +1
+* [Vitality](attributes.md#vitality) +2
 
 ### Bows
 * [Agility](attributes.md#agility) +1
-* [SP](attributes.md#skill-points) +1
+* [SP](attributes.md#skill-points) +2
 
 # Armors
 
