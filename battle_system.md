@@ -23,7 +23,7 @@ Skills may also combine a weapon with magic to a magical attack.
 ## Priorities
 
 1. Priority 0: Always used before the first turn starts (instant abilities).
-2. Priority 1: Executed in order depending on the [Speed](attributes.md#Speed) of the combatants.
+2. Priority 1: Executed in order depending on the [Speed](attributes.md#speed) of the combatants.
 3. Priority 2: Executed after all other combatants have acted in the current turn.
 
 

@@ -6,7 +6,8 @@ Players may choose between some sets of starter items.
 
 # Weapons
 Every type of weapon has its own experience level.  
-On weapon levelup two [Attributes](attributes.md) of the Player are raised depending on the type of the weapon.
+On weapon levelup two [Attributes](attributes.md) of the Player are raised depending on the type of the weapon.  
+Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon levelup.
 
 ## Small Weapons
 
