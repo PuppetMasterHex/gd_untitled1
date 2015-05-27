@@ -2,10 +2,15 @@
 # Battle system
 
 Generally turn based.
+
 All turns are planned before executing the first turn.
+
 At the first turn it is possible to use instant abilities (Flash Heal, Instant Strike etc.).
+
 Combat actions are executed in their [priority order](#priorities).
+
 Combatants react towards attacks / magic with a predefined [Counteraction](#counteraction) strategy.
+
 If the target of an ability is not available anymore (e.g. target dies/flees before the ability could be used) the turn of the caster expires.
 
 ## Abilities
@@ -30,12 +35,8 @@ Skills may also combine a weapon with magic to a magical attack.
 Standard actions to be executed as reaction of being attacked, the player may choose one of them.
 
 * **Dodge** May nullify any damage taken (instant abilities may not be dodged).
-
-
 * **Counter** Any damage taken is unchanged, may attack the enemy with a counterattack.
 * **Skill-Counter** Same as Counter but with a skill instead of a normal attack.
-
-
 * **Spell-Shield** Reduces magical damage taken by a percentage, consumes [Magic Points](attributes.md#magic-points).
 * **Spell-Counter** Any damage taken is unchanged, may cast a spell either on the enemy or on the player. E.g. [Heal](magic.md#heal) on the player or [Fireball](magic.md#fireball) on the enemy.
 
@@ -43,7 +44,8 @@ Standard actions to be executed as reaction of being attacked, the player may ch
 ## Death
 
 Player death results in game over.
-Enemy death results in the removal of that enemy from combat.
+
+Enemy death results in the removal of thatenemy from combat.
 If there are no enemies left in combat the [Victory Screen](#victory-Screen) will be shown.
 
 ## Escape
