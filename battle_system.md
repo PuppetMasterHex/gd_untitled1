@@ -1,8 +1,9 @@
 
 # Battle system
 
+One or more Players fight versus one or more Enemies, Player versus Player is also possible.
 Generally turn based.
-
+Players and some enemies may have multiple turns per round.
 All turns are planned before executing the first turn.  
 At the first turn it is possible to use instant abilities (Flash Heal, Instant Strike etc.).  
 Combat actions are executed in their [priority order](#priorities).  
@@ -57,4 +58,4 @@ If there are no enemies left in combat the [Victory Screen](#victory-Screen) wil
 ## Victory Screen
 
 Shows how much experience and money the player gains.  
-Also shows ability experience
+Also shows ability experience gained.
