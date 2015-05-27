@@ -13,9 +13,11 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 ### Daggers
 * Agility +1
 * Speed +2
+
 ### Throwing weapons
 * Agility +1
 * Speed +2
+
 ### Unarmed
 * SP +1
 * Mind +1
@@ -24,9 +26,11 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 ### Swords
 * Strength +1
 * Mind +2
+
 ### Maces
 * MP +1
 * Body +2
+
 ### Whips
 * Mind +1
 * SP +2
@@ -35,9 +39,11 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 ### Spears
 * Agility +1
 * Strength +2
+
 ### Axes
 * Body +2
 * Strength +1
+
 ### Bows
 * Agility +1
 * SP +1
@@ -46,6 +52,6 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 
 ## Chest Armors
 
-
 ## Shields
+
 ## Boots
