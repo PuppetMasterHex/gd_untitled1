@@ -35,14 +35,21 @@ Standard actions to be executed as reaction of being attacked, the player may ch
 * **Counter** Any damage taken is unchanged, may attack the enemy with a counterattack.
 * **Skill-Counter** Same as Counter but with a skill instead of a normal attack.
 * **Spell-Shield** Reduces magical damage taken by a percentage, consumes [Magic Points](attributes.md#magic-points).
-* **Spell-Counter** Any damage taken is unchanged, may cast a spell either on the enemy or on the player. E.g. [Heal](magic.md#heal) on the player or [Fireball](magic.md#fireball) on the enemy.
+* **Spell-Counter** Any damage taken is unchanged, may cast a spell either on the enemy or on himself. E.g. [Heal](magic.md#heal) on the player or [Fireball](magic.md#fireball) on the enemy.
 
+## Range
+Categories:
+* Melee
+* Ranged
+
+Depending on the active weapon or class in case of monsters the combatant has a range category.  
+Characters may not retaliate with a Counter if the enemy is not on the same range category as himself.
 
 ## Death
 
 Player death results in game over.
 
-Enemy death results in the removal of thatenemy from combat.  
+Monster death results in the removal of that monster from combat.  
 If there are no enemies left in combat the [Victory Screen](#victory-Screen) will be shown.
 
 ## Escape
@@ -51,7 +58,7 @@ If there are no enemies left in combat the [Victory Screen](#victory-Screen) wil
 
 1. When successful
    * Player escape results in [Victory Screen](#victory-Screen), but will not award any Money.
-   * Enemy escape results in the removal of that enemy from combat.
+   * Monster escape results in the removal of that monster from combat.
 2. When not successful
    * The turn of that combatant expires.
 
