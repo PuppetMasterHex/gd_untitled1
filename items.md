@@ -11,42 +11,42 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 ## Small Weapons
 
 ### Daggers
-* Agility +1
-* Speed +2
+* [Agility](attributes.md#agility) +1
+* [Speed](attributes.md#speed) +2
 
 ### Throwing weapons
-* Agility +1
-* Speed +2
+* [Agility](attributes.md#agility) +1
+* [Speed](attributes.md#speed) +2
 
 ### Unarmed
-* SP +1
-* Mind +1
+* [SP](attributes.md#skill-points) +1
+* [Mind](attributes.md#mind) +1
 
 ## Medium Weapons
 ### Swords
-* Strength +1
-* Mind +2
+* [Strength](attributes.md#strength) +1
+* [Mind](attributes.md#mind) +2
 
 ### Maces
-* MP +1
-* Body +2
+* [MP](attributes.md#magic-points) +1
+* [Body](attributes.md#body) +2
 
 ### Whips
-* Mind +1
-* SP +2
+* [Mind](attributes.md#mind) +1
+* [SP](attributes.md#skill-points) +2
 
 ## Large Weapons
 ### Spears
-* Agility +1
-* Strength +2
+* [Agility](attributes.md#agility) +1
+* [Strength](attributes.md#strength) +2
 
 ### Axes
-* Body +2
-* Strength +1
+* [Body](attributes.md#body) +2
+* [Strength](attributes.md#strength) +1
 
 ### Bows
-* Agility +1
-* SP +1
+* [Agility](attributes.md#agility) +1
+* [SP](attributes.md#skill-points) +1
 
 # Armors
 
