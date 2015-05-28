@@ -15,44 +15,70 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 * [Agility](attributes.md#agility) +1
 * [Speed](attributes.md#speed) +2
 
+[Range](battle_system.md#range): Melee
+
 ### Throwing weapons
 * [Agility](attributes.md#agility) +1
 * [Speed](attributes.md#speed) +2
+
+[Range](battle_system.md#range): **Ranged**
 
 ### Unarmed
 * [Mind](attributes.md#mind) +1
 * [HP](attributes.md#hit-points) +2
 
+[Range](battle_system.md#range): Melee
+
 ## Medium Weapons
 ### Swords
-* [Strength](attributes.md#strength) +1
-* [Mind](attributes.md#mind) +2
+* [Mind](attributes.md#mind) +1
+* [Strength](attributes.md#strength) +2
+
+[Range](battle_system.md#range): Melee
 
 ### Maces
 * [MP](attributes.md#magic-points) +1
 * [Vitality](attributes.md#vitality) +2
 
+[Range](battle_system.md#range): Melee
+
 ### Whips
-* [Mind](attributes.md#mind) +1
-* [SP](attributes.md#skill-points) +2
+* [SP](attributes.md#skill-points) +1
+* [Mind](attributes.md#mind) +2
+
+[Range](battle_system.md#range): Melee
 
 ## Large Weapons
 ### Spears
 * [Agility](attributes.md#agility) +1
 * [Strength](attributes.md#strength) +2
 
+[Range](battle_system.md#range): Melee
+
 ### Axes
 * [Strength](attributes.md#strength) +1
 * [Vitality](attributes.md#vitality) +2
+
+[Range](battle_system.md#range): Melee
 
 ### Bows
 * [Agility](attributes.md#agility) +1
 * [SP](attributes.md#skill-points) +2
 
+[Range](battle_system.md#range): **Ranged**
+
+
 # Armors
 
-## Chest Armors
+## Light Chest Armors
+Provide minor [physical damage reduction](attributes.md#other-attributes)
+
+## Heavy Chest Armors
+Provide [physical damage reduction](attributes.md#other-attributes)
+Reduce [Speed](attributes.md#speed)
 
 ## Shields
+Provide [physical damage reduction](attributes.md#other-attributes) when used with the ability [Block](battle_system.md#abilities)
 
 ## Boots
+Provide [Speed](attributes.md#speed) or [Counteraction chance](attributes.md#other-attributes) 
