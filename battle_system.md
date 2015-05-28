@@ -5,7 +5,7 @@ One or more Players fight versus one or more Enemies, Player versus Player is al
 Generally turn based.
 Players and some enemies may have multiple turns per round.
 All turns are planned before executing the first turn.  
-At the first turn it is possible to use instant abilities (Flash Heal, Instant Strike etc.).  
+At the first turn it is possible to use :boom: Instant Abilities (Flash Heal, Instant Strike etc.).  
 Combat actions are executed in their [priority order](#priorities).  
 Combatants react towards attacks / magic with a predefined [Counteraction](#counteraction) strategy.  
 If the target of an ability is not available anymore (e.g. target dies/flees before the ability could be used) the turn of the caster expires.
@@ -22,7 +22,7 @@ The abilities are grouped in:
 
 ## Priorities
 
-1. Priority 0: Always used before the first turn starts (instant abilities).
+1. Priority 0: Always used before the first turn starts (:boom: Instant Abilities).
 2. Priority 1: Executed in order depending on the [Speed](attributes.md#speed) of the combatants.
 3. Priority 2: Executed after all other combatants have acted in the current turn.
 
@@ -31,7 +31,7 @@ The abilities are grouped in:
 
 Standard actions to be executed as reaction of being attacked, the player may choose one of them.
 
-* **Dodge** May nullify any damage taken (instant abilities may not be dodged).
+* **Dodge** May nullify any damage taken (:boom:Instant Abilities may not be dodged).
 * **Counter** Any damage taken is unchanged, may attack the enemy with a counterattack.
 * **Skill-Counter** Same as Counter but with a skill instead of a normal attack.
 * **Spell-Shield** Reduces magical damage taken by a percentage, consumes [Magic Points](attributes.md#magic-points).
