@@ -18,7 +18,7 @@ The abilities are grouped in:
 * **Block** Reduces physical damage taken by a percentage, more effective with a [Shield](items.md#shields).
 * **Escape** May end the combat even when no [Victory](#victory) or [Death](#death) condition is met.
 
-Skills may also combine a weapon with magic to a magical attack.
+
 
 ## Priorities
 

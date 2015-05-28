@@ -2,7 +2,7 @@
 
 ## Hit Points
 
-If these reach 0 your character is death.
+If these reach 0 the character is [dead](battle_system.md#death).
 
 ## Magic Points
 
