@@ -38,7 +38,7 @@ Level | Gain
 :star::star::star::star::star: |  Hits 5 targets.
 
 ## Wind
-:dash:
+:cloud:
 * +1 [Agility](attributes.md#agility)
 
 ### Squall
@@ -117,10 +117,10 @@ Level | Gain
 
 # Mixed Elements
 
-* [Fire](#fire) + [Wind](#wind) = Thunder :zap:
-* [Wind](#wind) + [Water](#water) = Blizzard :snowflake:
-* [Water](#water) + [Earth](#earth) = Jungle :seedling:
-* [Earth](#earth) + [Fire](#fire) = Volcano :boom:
+* [Fire](#fire) + [Wind](#wind) = :zap: Thunder
+* [Wind](#wind) + [Water](#water) = :snowflake: Blizzard 
+* [Water](#water) + [Earth](#earth) = :seedling: Jungle 
+* [Earth](#earth) + [Fire](#fire) = :boom: Volcano 
 
 ## Thunder
 
