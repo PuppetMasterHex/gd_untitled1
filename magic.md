@@ -50,7 +50,7 @@ Level | Gain
 :star::star: |  Speed up 10%
 :star::star::star: |  Speed up 10%
 :star::star::star::star: |  Speed up 10%
-:star::star::star::star::star: |  Effect up 10%
+:star::star::star::star::star: |  Effect can be used as :boom: [Instant ability](battle_system.md#priorities)
 
 ### Tornado
 Hits all enemies 3 times with the force of wind.
@@ -68,7 +68,7 @@ Level | Gain
 * +2 [HP](attributes.md#hit-points)
 
 ### Heal
-Restores HP of one allied character.
+Restores [HP](attributes.md#hit-points) of one allied character.
 
 Level | Gain
 ------|-----
@@ -79,7 +79,7 @@ Level | Gain
 :star::star::star::star::star: |  Effect up 10%
 
 ### Allhealer
-Restores HP of all allied characters.
+Restores [HP](attributes.md#hit-points) of all allied characters.
 
 Level | Gain
 ------|-----
@@ -120,7 +120,7 @@ Level | Gain
 * [Fire](#fire) + [Wind](#wind) = :zap: Thunder
 * [Wind](#wind) + [Water](#water) = :snowflake: Blizzard 
 * [Water](#water) + [Earth](#earth) = :seedling: Jungle 
-* [Earth](#earth) + [Fire](#fire) = :boom: Volcano 
+* [Earth](#earth) + [Fire](#fire) = :volcano: Volcano 
 
 ## Thunder
 
