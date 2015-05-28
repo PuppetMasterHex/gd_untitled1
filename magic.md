@@ -8,7 +8,7 @@ Each element has its own experience level.
 On levelup each element increases the [MP](attributes.md#magic-points) by +2  
 Some magic may require two different elements, these are described as [Mixed Elements](#mixed-elements).
 
-Each Spell has its own experience level.  
+Each Spell has its own experience level shown as :star:.  
 On levelup the spells may increase in power, be casted faster, cost less MP or have additional effects.
 
 ## Fire
@@ -30,7 +30,7 @@ Hits 3 Enemies with fire.
 2. Hits 4 targets.
 3. Effect up 15%
 4. Speed up 10%
-5. Hits 5 targets
+5. Hits 5 targets.
 
 ## Wind
 * +1 [Agility](attributes.md#agility)
