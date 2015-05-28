@@ -12,6 +12,7 @@ Each Spell has its own experience level shown as :star:.
 On levelup the spells may increase in power, be casted faster, cost less MP or have additional effects.
 
 ## Fire
+:fire:
 * +1 [Speed](attributes.md#speed)
 
 ### Fireball
@@ -37,6 +38,7 @@ Level | Gain
 :star::star::star::star::star: |  Hits 5 targets.
 
 ## Wind
+:dash:
 * +1 [Agility](attributes.md#agility)
 
 ### Squall
@@ -62,6 +64,7 @@ Level | Gain
 :star::star::star::star::star: |  Hits every enemy 4 times.
 
 ## Water
+:droplet:
 * +2 [HP](attributes.md#hit-points)
 
 ### Heal
@@ -87,6 +90,7 @@ Level | Gain
 :star::star::star::star::star: |  Effect up 10%
 
 ## Earth
+:gem:
 * +1 [Strength](attributes.md#strength)
 
 ### Wall
@@ -113,10 +117,10 @@ Level | Gain
 
 # Mixed Elements
 
-* [Fire](#fire) + [Wind](#wind) = Thunder
-* [Wind](#wind) + [Water](#water) = Blizzard
-* [Water](#water) + [Earth](#earth) = Jungle
-* [Earth](#earth) + [Fire](#fire) = Volcano
+* [Fire](#fire) + [Wind](#wind) = Thunder :zap:
+* [Wind](#wind) + [Water](#water) = Blizzard :snowflake:
+* [Water](#water) + [Earth](#earth) = Jungle :seedling:
+* [Earth](#earth) + [Fire](#fire) = Volcano :boom:
 
 ## Thunder
 
