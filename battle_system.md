@@ -50,6 +50,7 @@ Characters may not retaliate with a Counter if the enemy is not on the same rang
 Player death results in game over.
 
 Monster death results in the removal of that monster from combat.  
+[Experience](attributes.md#experience) is awarded to the player that did the killing blow.  
 If there are no enemies left in combat the [Victory Screen](#victory-Screen) will be shown.
 
 ## Escape

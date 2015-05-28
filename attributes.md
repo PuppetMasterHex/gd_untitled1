@@ -1,5 +1,13 @@
 # Attributes
 
+## Level
+
+The level is increased by gaining experience points.
+
+## Experience Points
+
+Gained by killing enemies.
+
 ## Hit Points
 
 If these reach 0 the character is [dead](battle_system.md#death).
@@ -20,7 +28,6 @@ Increases [Counteraction](battle_system.md#counteraction) chance.
 ## Vitality
 
 Reduces Physical damage.
-Increases Hit Points.
 
 ## Mind
 
