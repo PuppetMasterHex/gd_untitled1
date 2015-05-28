@@ -15,7 +15,8 @@ On levelup the spells may increase in power, be casted faster, cost less MP or h
 * +1 [Speed](attributes.md#speed)
 
 ### Fireball
-A ball of fire hits one enemy.  
+A ball of fire hits one enemy.
+
 1. Effect up 10%
 2. Speed up 10%
 3. Effect up 10%
@@ -23,7 +24,8 @@ A ball of fire hits one enemy.
 5. Effect up 10%
 
 ### Fire Pillar
-Hits 3 Enemies with fire.  
+Hits 3 Enemies with fire.
+
 1. Effect up 15%
 2. Hits 4 targets.
 3. Effect up 15%
@@ -34,7 +36,8 @@ Hits 3 Enemies with fire.
 * +1 [Agility](attributes.md#agility)
 
 ### Squall
-Hits all enemies with the force of wind.  
+Hits all enemies with the force of wind.
+
 1. Speed up 10%
 2. Speed up 10%
 3. Speed up 10%
@@ -42,7 +45,8 @@ Hits all enemies with the force of wind.
 5. Effect up 10%
 
 ### Tornado
-Hits all enemies 3 times with the force of wind.  
+Hits all enemies 3 times with the force of wind.
+
 1. Speed up 10%
 2. Speed up 10%
 3. Effect up 10%
@@ -53,7 +57,8 @@ Hits all enemies 3 times with the force of wind.
 * +2 [HP](attributes.md#hit-points)
 
 ### Heal
-Restores HP of one allied character.  
+Restores HP of one allied character.
+
 1. Effect up 10%
 2. Effect up 10%
 3. Speed up 10%
@@ -61,7 +66,8 @@ Restores HP of one allied character.
 5. Effect up 10%
 
 ### Allhealer
-Restores HP of all allied characters.  
+Restores HP of all allied characters.
+
 1. Speed up 10%
 2. Speed up 10%
 3. Effect up 10%
@@ -72,7 +78,8 @@ Restores HP of all allied characters.
 * +1 [Strength](attributes.md#strength)
 
 ### Wall
-Reduces the damage taken of 1 allied character.  
+Reduces the damage taken of 1 allied character.
+
 1. MP cost down 10%
 2. MP cost down 10%
 3. MP cost down 10%
@@ -80,7 +87,8 @@ Reduces the damage taken of 1 allied character.
 5. Effects all allied characters.
 
 ### Tremble
-Damages 2 random enemies with the force of earth.  
+Damages 2 random enemies with the force of earth.
+
 1. Effects 3 targets.
 2. Effect up 10%
 3. Effects 4 targets.
