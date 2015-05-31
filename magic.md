@@ -50,7 +50,7 @@ Level | Gain
 :star::star: |  Speed up 10%
 :star::star::star: |  Speed up 10%
 :star::star::star::star: |  Speed up 10%
-:star::star::star::star::star: |  Effect can be used as :boom: [Instant ability](battle_system.md#priorities)
+:star::star::star::star::star: |  Effect can be used as :boom: [Instant Ability](battle_system.md#priorities)
 
 ### Tornado
 Hits all enemies 3 times with the force of wind.
