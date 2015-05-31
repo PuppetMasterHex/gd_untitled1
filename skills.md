@@ -50,6 +50,7 @@ Effects of skill only persist from the begin of the turn until the skill was use
 * Dagger L. 5
 * Sword L. 12
 * Axe L. 8
+
 Double attack with 60% physical damage.
 
 Level | Gain
@@ -64,6 +65,7 @@ Level | Gain
 * Unarmed L. 9
 * Mace L. 5
 * Spear L. 11
+
 60% physical damage, area attack.
 
 Level | Gain
@@ -78,6 +80,7 @@ Level | Gain
 * Throwing L. 7
 * Whip L. 9
 * Bow L. 9
+
 125% physical damage, ranged attack.
 
 Level | Gain
@@ -92,6 +95,7 @@ Level | Gain
 * Unarmed L. 11
 * Mace L. 14
 * Earth L. 7
+
 110% damage, [stun](conditions.md#stun) debuff.
 
 Level | Gain
@@ -197,7 +201,7 @@ Level | Gain
 * Fire L. 33
 * Earth L. 16
 
-Triple attack at 60% damage, finished by a single 100% volcano area damage.
+3 attacks at 60% physical damage against random targets, finished by a single 100% volcano damage against all enemies.
 
 Level | Gain
 ------|-----
@@ -206,3 +210,5 @@ Level | Gain
 :star::star::star: | Speed up 20%
 :star::star::star::star: | Volcano effect up 15%
 :star::star::star::star::star: | +2 physical attacks
+
+
