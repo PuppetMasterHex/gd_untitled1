@@ -201,8 +201,8 @@ Triple attack at 60% damage, finished by a single 100% volcano area damage.
 
 Level | Gain
 ------|-----
-:star: | Speed up 10%
-:star::star: | Speed up 10%
-:star::star::star: | Speed up 10%
-:star::star::star::star: | Speed up 10%
+:star: | Speed up 20%
+:star::star: | Volcano effect up 10%
+:star::star::star: | Speed up 20%
+:star::star::star::star: | Volcano effect up 15%
 :star::star::star::star::star: | +2 physical attacks
