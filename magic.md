@@ -116,10 +116,10 @@ Level | Gain
 
 # Mixed Elements
 
-* [Fire](#fire) + [Wind](#wind) = :zap: Thunder
-* [Wind](#wind) + [Water](#water) = :snowflake: Blizzard 
-* [Water](#water) + [Earth](#earth) = :seedling: Jungle 
-* [Earth](#earth) + [Fire](#fire) = :volcano: Volcano 
+* [Fire](#fire-fire) + [Wind](#cloud-wind) = :zap: Thunder
+* [Wind](#cloud-wind) + [Water](#droplet-water) = :snowflake: Blizzard 
+* [Water](#droplet-water) + [Earth](#gem-earth) = :seedling: Jungle 
+* [Earth](#gem-earth) + [Fire](#fire-fire) = :volcano: Volcano 
 
 ## :zap: Thunder
 

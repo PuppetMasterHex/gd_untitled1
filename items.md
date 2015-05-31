@@ -81,4 +81,4 @@ Reduce [Speed](attributes.md#speed)
 Provide [physical damage reduction](attributes.md#other-attributes) when used with the ability [Block](battle_system.md#abilities)
 
 ## Boots
-Provide [Speed](attributes.md#speed) or [Counteraction chance](attributes.md#other-attributes) 
+Provide [Speed](attributes.md#speed) or [Counteraction chance](attributes.md#other-attributes)
