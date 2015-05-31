@@ -89,8 +89,8 @@ Level | Gain
 :star::star::star::star: |  MP cost down 10%
 :star::star::star::star::star: |  Effect up 10%
 
-## Earth
-:gem:
+## :gem: Earth
+
 * +1 [Strength](attributes.md#strength)
 
 ### Wall
