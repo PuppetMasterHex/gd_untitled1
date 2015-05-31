@@ -11,8 +11,8 @@ Some magic may require two different elements, these are described as [Mixed Ele
 Each Spell has its own experience level shown as :star:.  
 On levelup the spells may increase in power, be casted faster, cost less MP or have additional effects.
 
-## Fire
-:fire:
+## :fire: Fire
+
 * +1 [Speed](attributes.md#speed)
 
 ### Fireball
@@ -37,8 +37,8 @@ Level | Gain
 :star::star::star::star: |  Speed up 10%
 :star::star::star::star::star: |  Hits 5 targets.
 
-## Wind
-:cloud:
+## :cloud: Wind
+
 * +1 [Agility](attributes.md#agility)
 
 ### Squall
@@ -63,8 +63,8 @@ Level | Gain
 :star::star::star::star: |  Speed up 10%
 :star::star::star::star::star: |  Hits every enemy 4 times.
 
-## Water
-:droplet:
+## :droplet: Water
+
 * +2 [HP](attributes.md#hit-points)
 
 ### Heal
@@ -90,7 +90,6 @@ Level | Gain
 :star::star::star::star::star: |  Effect up 10%
 
 ## :gem: Earth
-
 * +1 [Strength](attributes.md#strength)
 
 ### Wall
@@ -122,10 +121,10 @@ Level | Gain
 * [Water](#water) + [Earth](#earth) = :seedling: Jungle 
 * [Earth](#earth) + [Fire](#fire) = :volcano: Volcano 
 
-## Thunder
+## :zap: Thunder
 
-## Blizzard
+## :snowflake: Blizzard
 
-## Jungle
+## :seedling: Jungle
 
-## Volcano
+## :volcano: Volcano
