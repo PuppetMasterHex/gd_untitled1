@@ -117,21 +117,35 @@ Wearing no armor gives a [Speed](attributes.md#speed) boost of +60%.
 
 ## Helmets
 
-### Strainer
-* Armor 2
-
-### Cooking Pot
-* Armor 3
+Name | Stats | Price
+-----|-------|------
+Strainer | Armor +2 | 40 Gold
+Cooking Pot | Armor +3 | 60 Gold
 
 ## Light Chest Armors
 Provide minor [physical damage reduction](attributes.md#other-attributes)
+
+Name | Stats | Price
+-----|-------|------
+Light Clothes | Armor +2 | 30 Gold
+Robe | Armor +3, Mind +5 | 120 Gold
 
 ## Heavy Chest Armors
 Provide [physical damage reduction](attributes.md#other-attributes)
 -20% [Speed](attributes.md#speed) penalty.
 
+Name | Stats | Price
+-----|-------|------
+Leather Clothes | Armor +5 | 120 Gold
+Leather Armor
+
 ## Shields
-Provide [physical damage reduction](attributes.md#other-attributes) when used with the ability [Block](battle_system.md#abilities)
+Provide [physical damage reduction](attributes.md#other-attributes) when used with the ability [Block](battle_system.md#abilities), may also add other stats.
+
+Name | Block | Stats | Price
+-----|-------|-------|------
+Cutting Board | 5% | Armor +2 | 70 Gold
+Pot lid | 6% | Armor +3 | 110 Gold
 
 ## Boots
-Provide [Speed](attributes.md#speed) or [Counteraction chance](attributes.md#other-attributes)
+Increase the number of turns, add Armor or [Speed](attributes.md#speed)
