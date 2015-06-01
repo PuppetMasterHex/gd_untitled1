@@ -20,7 +20,7 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 
 Name | Stats | Price
 -----|-------|------
-Pocket Knife | [Damage](attributes.md#physical-damage): +8 | 150 Gold
+Pocket Knife | [Damage](attributes.md#physical-damage) +8 | 150 Gold
 
 ## Throwing weapons
 * [Agility](attributes.md#agility) +1
@@ -128,7 +128,7 @@ Provide minor [physical damage reduction](attributes.md#other-attributes)
 Name | Stats | Price
 -----|-------|------
 Light Clothes | Armor +2 | 30 Gold
-Robe | Armor +3, Mind +5 | 120 Gold
+Robe | Armor +3, [Mind](attributes.md#mind) +5 | 120 Gold
 
 ## Heavy Chest Armors
 Provide [physical damage reduction](attributes.md#other-attributes)
@@ -137,7 +137,7 @@ Provide [physical damage reduction](attributes.md#other-attributes)
 Name | Stats | Price
 -----|-------|------
 Leather Clothes | Armor +5 | 120 Gold
-Leather Armor
+Leather Armor | Armor +8 | 180 Gold
 
 ## Shields
 Provide [physical damage reduction](attributes.md#other-attributes) when used with the ability [Block](battle_system.md#abilities), may also add other stats.
