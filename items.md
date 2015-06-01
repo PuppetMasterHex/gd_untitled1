@@ -9,90 +9,90 @@ Every type of weapon has its own experience level.
 On weapon levelup two [Attributes](attributes.md) of the Player are raised depending on the type of the weapon.  
 Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon levelup.
 
-## Small Weapons
+# Small Weapons
 
-### Daggers
+## Daggers
 * [Agility](attributes.md#agility) +1
 * [Speed](attributes.md#speed) +2
 
 [Range](battle_system.md#range): Melee
 
-#### Pocket Knife
+### Pocket Knife
 * Damage: 8
 
-### Throwing weapons
+## Throwing weapons
 * [Agility](attributes.md#agility) +1
 * [Speed](attributes.md#speed) +2
 
 [Range](battle_system.md#range): **Ranged**
 
-#### Plastic Dart
+### Plastic Dart
 * Damage 7
 
-### Unarmed
+## Unarmed
 * [Mind](attributes.md#mind) +1
 * [HP](attributes.md#hit-points) +2
 
 [Range](battle_system.md#range): Melee
 
-#### Bare Handed
+### Bare Handed
 * Damage 6
 
-## Medium Weapons
-### Swords
+# Medium Weapons
+## Swords
 * [Mind](attributes.md#mind) +1
 * [Strength](attributes.md#strength) +2
 
 [Range](battle_system.md#range): Melee
 
 
-#### Wooden Sword
+### Wooden Sword
 * Damage 9
 
-### Maces
+## Maces
 * [MP](attributes.md#magic-points) +1
 * [Vitality](attributes.md#vitality) +2
 
 [Range](battle_system.md#range): Melee
 
-#### Wooden Club
+### Wooden Club
 * Damage 10
 
-### Whips
+## Whips
 * [SP](attributes.md#skill-points) +1
 * [Mind](attributes.md#mind) +2
 
 [Range](battle_system.md#range): Melee
 
-#### Horsewhip
+### Horsewhip
 * Damage 9
 
-## Large Weapons
-### Spears
+# Large Weapons
+## Spears
 * [Agility](attributes.md#agility) +1
 * [Strength](attributes.md#strength) +2
 
 [Range](battle_system.md#range): Melee
 
-#### Pointy Stick
+### Pointy Stick
 * Damage 11
 
-### Axes
+## Axes
 * [Strength](attributes.md#strength) +1
 * [Vitality](attributes.md#vitality) +2
 
 [Range](battle_system.md#range): Melee
 
-#### Plastic Hatchet
+### Plastic Hatchet
 * Damage 10
 
-### Bows
+## Bows
 * [Agility](attributes.md#agility) +1
 * [SP](attributes.md#skill-points) +2
 
 [Range](battle_system.md#range): **Ranged**
 
-#### DIY Bow
+### DIY Bow
 * Damage 12
 
 # Armors
