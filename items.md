@@ -10,6 +10,7 @@ On weapon levelup two [Attributes](attributes.md) of the Player are raised depen
 Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon levelup.
 
 # Small Weapons
+The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 
 ## Daggers
 * [Agility](attributes.md#agility) +1
@@ -39,6 +40,9 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 * Damage 6
 
 # Medium Weapons
+
+The [Speed](attributes.md#speed) of medium weapons is 100% of the players speed.
+
 ## Swords
 * [Mind](attributes.md#mind) +1
 * [Strength](attributes.md#strength) +2
@@ -68,6 +72,8 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 * Damage 9
 
 # Large Weapons
+A [Speed](attributes.md#speed) penalty of -20% is applied on large weapons.
+
 ## Spears
 * [Agility](attributes.md#agility) +1
 * [Strength](attributes.md#strength) +2
