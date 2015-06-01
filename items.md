@@ -17,17 +17,26 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 
 [Range](battle_system.md#range): Melee
 
+#### Pocket Knife
+* Damage: 8
+
 ### Throwing weapons
 * [Agility](attributes.md#agility) +1
 * [Speed](attributes.md#speed) +2
 
 [Range](battle_system.md#range): **Ranged**
 
+#### Plastic Dart
+* Damage 7
+
 ### Unarmed
 * [Mind](attributes.md#mind) +1
 * [HP](attributes.md#hit-points) +2
 
 [Range](battle_system.md#range): Melee
+
+#### Bare Handed
+* Damage 6
 
 ## Medium Weapons
 ### Swords
@@ -36,17 +45,27 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 
 [Range](battle_system.md#range): Melee
 
+
+#### Wooden Sword
+* Damage 9
+
 ### Maces
 * [MP](attributes.md#magic-points) +1
 * [Vitality](attributes.md#vitality) +2
 
 [Range](battle_system.md#range): Melee
 
+#### Wooden Club
+* Damage 10
+
 ### Whips
 * [SP](attributes.md#skill-points) +1
 * [Mind](attributes.md#mind) +2
 
 [Range](battle_system.md#range): Melee
+
+#### Horsewhip
+* Damage 9
 
 ## Large Weapons
 ### Spears
@@ -55,11 +74,17 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 
 [Range](battle_system.md#range): Melee
 
+#### Pointy Stick
+* Damage 11
+
 ### Axes
 * [Strength](attributes.md#strength) +1
 * [Vitality](attributes.md#vitality) +2
 
 [Range](battle_system.md#range): Melee
+
+#### Plastic Hatchet
+* Damage 10
 
 ### Bows
 * [Agility](attributes.md#agility) +1
@@ -67,8 +92,18 @@ Also the [SP](attributes.md#skill-points) is increased by +1 on every Weapon lev
 
 [Range](battle_system.md#range): **Ranged**
 
+#### DIY Bow
+* Damage 12
 
 # Armors
+
+## Helmets
+
+### Strainer
+* Armor 2
+
+### Cooking Pot
+* Armor 3
 
 ## Light Chest Armors
 Provide minor [physical damage reduction](attributes.md#other-attributes)
