@@ -51,7 +51,7 @@ Reduces enemy hit chance by `Speed/40,96`%.
 
 ## Strength
 
-Strength increases physical damage by `Strength*0.25%`.
+Strength increases physical damage by `log2(Strength)*10` and `Strength*0.25`%.
 
 
 # Other Attributes
