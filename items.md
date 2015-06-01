@@ -19,7 +19,7 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 [Range](battle_system.md#range): Melee
 
 ### Pocket Knife
-* Damage: 8
+* [Damage](attributes.md#physical-damage): 8
 
 ## Throwing weapons
 * [Agility](attributes.md#agility) +1
@@ -28,7 +28,7 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 [Range](battle_system.md#range): **Ranged**
 
 ### Plastic Dart
-* Damage 7
+* [Damage](attributes.md#physical-damage) 7
 
 ## Unarmed
 * [Mind](attributes.md#mind) +1
@@ -36,8 +36,8 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 
 [Range](battle_system.md#range): Melee
 
-### Bare Handed
-* Damage 6
+### Wool Bandage
+* [Damage](attributes.md#physical-damage) 6
 
 # Medium Weapons
 
@@ -51,7 +51,7 @@ The [Speed](attributes.md#speed) of medium weapons is 100% of the players speed.
 
 
 ### Wooden Sword
-* Damage 9
+* [Damage](attributes.md#physical-damage) 9
 
 ## Maces
 * [MP](attributes.md#magic-points) +1
@@ -60,7 +60,7 @@ The [Speed](attributes.md#speed) of medium weapons is 100% of the players speed.
 [Range](battle_system.md#range): Melee
 
 ### Wooden Club
-* Damage 10
+* [Damage](attributes.md#physical-damage) 10
 
 ## Whips
 * [SP](attributes.md#skill-points) +1
@@ -69,7 +69,7 @@ The [Speed](attributes.md#speed) of medium weapons is 100% of the players speed.
 [Range](battle_system.md#range): Melee
 
 ### Horsewhip
-* Damage 9
+* [Damage](attributes.md#physical-damage) 9
 
 # Large Weapons
 A [Speed](attributes.md#speed) penalty of -20% is applied on large weapons.
@@ -81,7 +81,7 @@ A [Speed](attributes.md#speed) penalty of -20% is applied on large weapons.
 [Range](battle_system.md#range): Melee
 
 ### Pointy Stick
-* Damage 11
+* [Damage](attributes.md#physical-damage) 11
 
 ## Axes
 * [Strength](attributes.md#strength) +1
@@ -90,7 +90,7 @@ A [Speed](attributes.md#speed) penalty of -20% is applied on large weapons.
 [Range](battle_system.md#range): Melee
 
 ### Plastic Hatchet
-* Damage 10
+* [Damage](attributes.md#physical-damage) 10
 
 ## Bows
 * [Agility](attributes.md#agility) +1
@@ -99,9 +99,12 @@ A [Speed](attributes.md#speed) penalty of -20% is applied on large weapons.
 [Range](battle_system.md#range): **Ranged**
 
 ### DIY Bow
-* Damage 12
+* [Damage](attributes.md#physical-damage) 12
 
 # Armors
+
+## Unarmored
+Wearing no armor gives a [Speed](attributes.md#speed) boost of +60%.
 
 ## Helmets
 
@@ -116,7 +119,7 @@ Provide minor [physical damage reduction](attributes.md#other-attributes)
 
 ## Heavy Chest Armors
 Provide [physical damage reduction](attributes.md#other-attributes)
-Reduce [Speed](attributes.md#speed)
+-20% [Speed](attributes.md#speed) penalty.
 
 ## Shields
 Provide [physical damage reduction](attributes.md#other-attributes) when used with the ability [Block](battle_system.md#abilities)
