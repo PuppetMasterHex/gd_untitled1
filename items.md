@@ -18,8 +18,9 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 
 [Range](battle_system.md#range): Melee
 
-### Pocket Knife
-* [Damage](attributes.md#physical-damage): +8
+Name | Stats | Price
+-----|-------|------
+Pocket Knife | [Damage](attributes.md#physical-damage): +8 | 150 Gold
 
 ## Throwing weapons
 * [Agility](attributes.md#agility) +1
@@ -27,8 +28,9 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 
 [Range](battle_system.md#range): **Ranged**
 
-### Plastic Dart
-* [Damage](attributes.md#physical-damage) +7
+Name | Stats | Price
+-----|-------|------
+Plastic Dart | [Damage](attributes.md#physical-damage) +7 | 130 Gold
 
 ## Unarmed
 * [Mind](attributes.md#mind) +1
@@ -36,8 +38,9 @@ The player gains +20% [Speed](attributes.md#speed) for using small weapons.
 
 [Range](battle_system.md#range): Melee
 
-### Wool Bandage
-* [Damage](attributes.md#physical-damage) +6
+Name | Stats | Price
+-----|-------|------
+Wool Bandage | [Damage](attributes.md#physical-damage) +6 | 100 Gold
 
 # Medium Weapons
 
@@ -50,8 +53,9 @@ The [Speed](attributes.md#speed) of medium weapons is 100% of the players speed.
 [Range](battle_system.md#range): Melee
 
 
-### Wooden Sword
-* [Damage](attributes.md#physical-damage) +9
+Name | Stats | Price
+-----|-------|------
+Wooden Sword | [Damage](attributes.md#physical-damage) +9 | 190 Gold
 
 ## Maces
 * [SP](attributes.md#skill-points) +1
@@ -69,8 +73,9 @@ Wooden Club | [Damage](attributes.md#physical-damage) +10 | 200 Gold
 
 [Range](battle_system.md#range): Melee
 
-### Horsewhip
-* [Damage](attributes.md#physical-damage) +9
+Name | Stats | Price
+-----|-------|------
+Horsewhip | * [Damage](attributes.md#physical-damage) +9 | 180 Gold
 
 # Large Weapons
 A [Speed](attributes.md#speed) penalty of -20% is applied with large weapons.
@@ -81,8 +86,9 @@ A [Speed](attributes.md#speed) penalty of -20% is applied with large weapons.
 
 [Range](battle_system.md#range): Melee
 
-### Pointy Stick
-* [Damage](attributes.md#physical-damage) +11
+Name | Stats | Price
+-----|-------|------
+Pointy Stick | [Damage](attributes.md#physical-damage) +11 | 220 Gold
 
 ## Axes
 * [Strength](attributes.md#strength) +1
@@ -90,8 +96,9 @@ A [Speed](attributes.md#speed) penalty of -20% is applied with large weapons.
 
 [Range](battle_system.md#range): Melee
 
-### Plastic Hatchet
-* [Damage](attributes.md#physical-damage) +10
+Name | Stats | Price
+-----|-------|------
+Plastic Hatchet | [Damage](attributes.md#physical-damage) +10 | 200 Gold
 
 ## Bows
 * [Agility](attributes.md#agility) +1
@@ -99,8 +106,9 @@ A [Speed](attributes.md#speed) penalty of -20% is applied with large weapons.
 
 [Range](battle_system.md#range): **Ranged**
 
-### DIY Bow
-* [Damage](attributes.md#physical-damage) +12
+Name | Stats | Price
+-----|-------|------
+DIY Bow | [Damage](attributes.md#physical-damage) +12 | 240 Gold
 
 # Armors
 
