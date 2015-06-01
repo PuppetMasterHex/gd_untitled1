@@ -2,6 +2,8 @@
 # Magic
 
 Magic is divided in elements.  
+All spells have an innate -25% Speed penalty.  
+Every spell level remedies 5% of that malus.
 
 # Elements
 Each element has its own experience level.  
