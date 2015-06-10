@@ -133,7 +133,7 @@ Level | Gain
 :star::star: | Speed up 15%
 :star::star::star: | Speed up 15%
 :star::star::star::star: | Speed up 15%
-:star::star::star::star::star: | Gain 5-10% of the damage done as HP.
+:star::star::star::star::star: | Gain 2% of the damage done as HP.
 
 ## Fire Whip
 * Whip L. 18
@@ -162,7 +162,7 @@ Level | Gain
 :star::star: | Poison effect up 20%
 :star::star::star: | Poison effect up 25%
 :star::star::star::star: | Poison effect up 30%
-:star::star::star::star::star: | Gain 1-2% of the damage done as MP.
+:star::star::star::star::star: | Gain 1% of the damage done as MP.
 
 
 ## Thors Hammer
