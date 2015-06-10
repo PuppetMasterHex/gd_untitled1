@@ -149,3 +149,8 @@ Pot lid | 6% | Armor +3 | 110 Gold
 
 ## Boots
 Increase the number of turns, add Armor or [Speed](attributes.md#speed)
+
+Name | Armor | Speed | turns| Price
+-----|-------|-------|------|------
+High Heels | +3 | - | - | 150 Gold
+Seven League Boots | +70 | +70% | +6 | -
